@@ -45,8 +45,6 @@ streamlit.write('Thanks for adding ', fruit_choice)
 #import requests
 
 
-streamlit.stop()
-
 #import snowflake.connector
 
 streamlit.header("The fuit load list contains:")
